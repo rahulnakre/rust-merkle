@@ -103,9 +103,9 @@ mod test {
 
 
 
-    match bt.root.right {
+    // match bt.root.right {
       
-    }
-    assert_eq!(bt.root.get_right_val(), Some(12));
+    // }
+    // assert_eq!(bt.root.get_right_val(), Some(12));
   }
 }
